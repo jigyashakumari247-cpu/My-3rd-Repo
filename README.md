@@ -1,5 +1,5 @@
 # My-3rd-Repo
-                                      <h1><hr>Lorem Ipsum<h1/><br>
+<h1>Lorem Ipsum<h1/><br>
 "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse convallis aliquam tellus. Fusce pharetra pretium pulvinar. Morbi fermentum eu enim ut lobortis. Nunc pharetra id ipsum in laoreet. In hendrerit erat sit amet elit suscipit, ac commodo sapien fermentum. Integer id arcu lacus. Mauris neque lectus, eleifend a leo vel, pellentesque mattis purus. Praesent dictum nibh risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
